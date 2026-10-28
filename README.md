@@ -26,22 +26,6 @@ Os arquivos serão adicionados e atualizados conforme avanço nos estudos. Por i
 - Experimentar bibliotecas e recursos da biblioteca padrão.
 - Organizar meus exercícios e acompanhar minha evolução como estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-## 📚 Conteúdos de estudo
-
-A lista abaixo representa os assuntos que este repositório pretende reunir ao longo do curso. Os tópicos serão atualizados conforme forem estudados e praticados.
-
-- [ ] **Primeiros passos:** sintaxe, comentários e execução de scripts.
-- [ ] **Variáveis e tipos de dados:** `int`, `float`, `str` e `bool`.
-- [ ] **Entrada e saída:** `input()` e `print()`.
-- [ ] **Conversão de tipos** e operações matemáticas.
-- [ ] **Operadores:** aritméticos, relacionais e lógicos.
-- [ ] **Estruturas condicionais:** `if`, `elif` e `else`.
-- [ ] **Estruturas de repetição:** `for` e `while`.
-- [ ] **Biblioteca padrão:** módulos como `math`, `random` e `datetime`.
-- [ ] **Funções** e organização do código.
-- [ ] **Exercícios práticos** para consolidar o aprendizado.
-
-> A lista é um roteiro de acompanhamento, não uma afirmação de que todos os tópicos já foram concluídos.
 
 ## 🛠️ Tecnologias e ferramentas
 
