@@ -1,0 +1,5 @@
+times=('Milan', 'Bayern','Barcelona', 'Boca Juniors', 'Inter de Milão', 'Nacional', 'Peñarol', 'São Paulo', 'Ajax', 'Corinthians', 'Juventus',' Manchester United', 'Porto', 'Santos' , 'Chelsea')
+print(f'{'=-='*30}\nOs 5 primeros colocados: {times[:5]}\n{'=-='*30}')
+print(f'{'=-='*30}\nOs 4 ultimos colocados: {times[-4:]}\n{'=-='*30}')
+print(f'{'=-='*30}\nTodos times em ordem alfabética: {sorted(times)}\n{'=-='*30}')
+print(f'{'=-='*30}\nCorinthians está na posição: {times.index('Corinthians')}\n{'=-='*30}') 
